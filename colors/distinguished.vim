@@ -90,7 +90,7 @@ call s:ColorDictParser({
 	\ , 'Statement'                   : [    186,     '',           'bold',      'd7d787',        '',           'bold']
 	\ , 'PreProc'                     : [    247,     '',               '',      '9e9e9e',        '',               '']
 	\ , 'Type'                        : [     67,     '',           'bold',      '5f87af',        '',           'bold']
-	\ , 'String'                      : [     43,     '',               '',      'afaf5f',        '',               '']
+	\ , 'String'                      : [     73,     '',               '',      'afaf5f',        '',               '']
 	\ , 'Number'                      : [    173,     '',               '',      'd7875f',        '',               '']
 	\ , 'Define'                      : [    173,     '',               '',      'd7875f',        '',               '']
 	\ , 'Error'                       : [    208,    124,               '',      'ff8700',  'af0000',               '']
